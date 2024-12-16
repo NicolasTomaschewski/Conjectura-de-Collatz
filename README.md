@@ -1,0 +1,1 @@
+# Conjectura-de-Collatz
